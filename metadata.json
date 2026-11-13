@@ -1,0 +1,6 @@
+{
+  "name": "GiaSư Pro - Không Gian Giảng Dạy & Trực Quan Hóa Đa Môn",
+  "description": "Ứng dụng trợ lý giảng dạy cho gia sư các môn Toán, Lý, Hóa, Tiếng Anh (Lớp 8 - 12) với thư mục cây chuyên đề, vẽ đồ thị toán học, mô phỏng dao động vật lý, mô hình phân tử 3D và studio tạo ảnh, video minh họa bài giảng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
